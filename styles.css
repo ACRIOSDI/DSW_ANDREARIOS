@@ -64,7 +64,7 @@ body {
 
   .baner:before{
     content: "";
-    background-image: url("/imagenes/baner.jpg");
+    background-image: url("/DSW_ANDREARIOS/imagenes/baner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.6;

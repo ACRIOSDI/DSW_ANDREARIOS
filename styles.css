@@ -141,10 +141,10 @@ body {
     justify-content: center;
     align-items: center;
   }
-  /* .evalua .texto{
+  .evalua .texto{
     text-align: center;
-  } */
-
+  }
+/* 
   .evaliuaciones .evalua{
     display: flex;
     margin-top: 100px;
@@ -155,5 +155,5 @@ body {
   .evalua .texto{
     width: 40%;
     
-  }
+  } */
   
